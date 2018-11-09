@@ -1,0 +1,2 @@
+C:\Users\Dell\Downloads\New Unity Project 1-20181013T202819Z-001\MiniProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\New Unity Project 1-20181013T202819Z-001\MiniProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
